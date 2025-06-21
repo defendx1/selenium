@@ -1,6 +1,6 @@
 # Selenium Grid Docker Installation Script
 
-![Selenium Logo](https://selenium-python.readthedocs.io/en/stable/_static/logo.png)
+![Selenium Logo](https://selenium.defendx1.com/ui/static/media/selenium-grid-logo.86cdb73d38521c0e49691666db832e49.svg)
 
 A comprehensive automated installation script for deploying Selenium Grid web automation testing platform with Docker, Nginx reverse proxy, and SSL certificates. Designed to work alongside existing monitoring services without conflicts.
 
